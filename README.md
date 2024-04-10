@@ -1,2 +1,5 @@
 # rsa-encryption
-A python project - RSA key generation, encryption and decryption
+A quick python cryptography project:
+- RSA key generation
+- Encryption 
+- Decryption
